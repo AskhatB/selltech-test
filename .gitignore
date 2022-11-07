@@ -2,11 +2,13 @@
 
 # dependencies
 /node_modules
-/.pnp
-.pnp.js
 
 # testing
 /coverage
+
+# IDEA settings
+/.idea
+/.vscode
 
 # production
 /build
