@@ -10,11 +10,11 @@ import {
   GET_APPLICANT_INDIVIDUAL_COMPANY_RELATIONS,
   GET_APPLICANT_INDIVIDUAL_COMPANY_POSITIONS,
 } from "../../queries/applicant-individual-company.queries";
-import { StyledFormWrapper } from "./styles";
 import {
   ApplicantIndividualCompanyPositionsResponse,
   ApplicantIndividualCompanyRelationResponse,
 } from "../../types/main-form.types";
+import { StyledFormWrapper } from "./styles";
 
 const fieldStyle = { marginBottom: 12 };
 
